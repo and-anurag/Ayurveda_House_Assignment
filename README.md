@@ -46,8 +46,8 @@ A simple Android application that demonstrates a shopping cart functionality wit
 ---
 
 ## **Technologies Used**
-- **Programming Language**: Java/Kotlin  
-- **UI Framework**: Android XML Layouts  
+- **Programming Language**: Kotlin  
+- **UI Framework**: Jetpack Compose (AndroidX) 
 - **State Management**: [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)  
 - **Persistence**: Room Database (Optional)  
 
