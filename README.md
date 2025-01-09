@@ -29,19 +29,17 @@ A simple Android application that demonstrates a shopping cart functionality wit
 ## **Screenshots**
 
 ### 1. **Product Listing Screen**
-![Product Listing Screen](https://github.com/and-anurag/Ayurveda_House_Assignment/blob/master/image.png)
+
 
 ### 2. **Product Quantity Update**
-![Product Quantity Update](https://via.placeholder.com/600x300?text=Product+Quantity+Update)
+
 
 ### 3. **Cart Icon on Top Right**
-![Cart Icon on Top Right](https://via.placeholder.com/600x300?text=Cart+Icon+on+Top+Right)
 
 ### 4. **Product Detail Screen**
-![Product Detail Screen](https://via.placeholder.com/600x300?text=Product+Detail+Screen)
 
 ### 5. **Cart Screen**
-![Cart Screen](https://via.placeholder.com/600x300?text=Cart+Screen)
+![Product Listing Screen](https://github.com/and-anurag/Ayurveda_House_Assignment/blob/master/screenshot.png)
 
 ---
 
