@@ -29,7 +29,7 @@ A simple Android application that demonstrates a shopping cart functionality wit
 ## **Screenshots**
 
 ### 1. **Product Listing Screen**
-![Product Listing Screen](https://via.placeholder.com/600x300?text=Product+Listing+Screen)
+![Product Listing Screen](https://github.com/and-anurag/Ayurveda_House_Assignment/blob/master/image.png)
 
 ### 2. **Product Quantity Update**
 ![Product Quantity Update](https://via.placeholder.com/600x300?text=Product+Quantity+Update)
